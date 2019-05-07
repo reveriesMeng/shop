@@ -110,11 +110,11 @@
 	}
 .header-logo{
 	display: block;
-	width:136px;
+	width:80px;
 	height: 48px;
 	background: url(../img/header-logo.png) no-repeat;
 	margin-left:15px;
-	
+	visibility: hidden;
 }
 
 .header .search{
